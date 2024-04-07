@@ -1,0 +1,59 @@
+Winning Test
+Initializing a 3X3 TicTacToe
+What is the name of the player 1: What is the name of the player 2: |1|2|3|
+|4|5|6|
+|7|8|9|
+Kos Enter the number to play your symbol X (Available Numbers 1,2,3,4,5,6,7,8,9): |1|2|3|
+|4|X|6|
+|7|8|9|
+Kay Enter the number to play your symbol O (Available Numbers 1,2,3,4,6,7,8,9): Number already played, choose a different number from available numbers. (Available Numbers %s) 1,2,3,4,6,7,8,9
+Kay Enter the number to play your symbol O (Available Numbers 1,2,3,4,6,7,8,9): |O|2|3|
+|4|X|6|
+|7|8|9|
+Kos Enter the number to play your symbol X (Available Numbers 2,3,4,6,7,8,9): |O|X|3|
+|4|X|6|
+|7|8|9|
+Kay Enter the number to play your symbol O (Available Numbers 3,4,6,7,8,9): |O|X|3|
+|O|X|6|
+|7|8|9|
+Kos Enter the number to play your symbol X (Available Numbers 3,6,7,8,9): |O|X|3|
+|O|X|6|
+|X|8|9|
+Kay Enter the number to play your symbol O (Available Numbers 3,6,8,9): |O|X|3|
+|O|X|6|
+|X|O|9|
+Kos Enter the number to play your symbol X (Available Numbers 3,6,9): Player Kos is the winner
+Not Winning TestInitializing a 3X3 TicTacToe
+What is the name of the player 1: What is the name of the player 2: |1|2|3|
+|4|5|6|
+|7|8|9|
+Kos Enter the number to play your symbol X (Available Numbers 1,2,3,4,5,6,7,8,9): |1|2|3|
+|4|X|6|
+|7|8|9|
+Kay Enter the number to play your symbol O (Available Numbers 1,2,3,4,6,7,8,9): |O|2|3|
+|4|X|6|
+|7|8|9|
+Kos Enter the number to play your symbol X (Available Numbers 2,3,4,6,7,8,9): |O|2|3|
+|X|X|6|
+|7|8|9|
+Kay Enter the number to play your symbol O (Available Numbers 2,3,6,7,8,9): |O|2|3|
+|X|X|O|
+|7|8|9|
+Kos Enter the number to play your symbol X (Available Numbers 2,3,7,8,9): Enter available Number
+Kos Enter the number to play your symbol X (Available Numbers 2,3,7,8,9): |O|2|3|
+|X|X|O|
+|X|8|9|
+Kay Enter the number to play your symbol O (Available Numbers 2,3,8,9): |O|2|O|
+|X|X|O|
+|X|8|9|
+Kos Enter the number to play your symbol X (Available Numbers 2,8,9): |O|2|O|
+|X|X|O|
+|X|8|X|
+Kay Enter the number to play your symbol O (Available Numbers 2,8): |O|2|O|
+|X|X|O|
+|X|O|X|
+Kos Enter the number to play your symbol X (Available Numbers 2): |O|X|O|
+|X|X|O|
+|X|O|X|
+No one win!
+End of the game
